@@ -19,4 +19,4 @@ def world(input):
     input=sorted(input)
     return (output.join(input))
 
-print(world("cc ccc cc bb cc b a aaa b cc"))
+print(world("hello i am tobi"))
